@@ -1,0 +1,8 @@
+﻿  ProcessInjectionTest.cpp
+C:\Users\Ratatouille\source\repos\ProcessInjectionTest\ProcessInjectionTest\ProcessInjectionTest.cpp(141,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours
+  6 of 20 functions (30.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  ProcessInjectionTest.vcxproj -> C:\Users\Ratatouille\source\repos\ProcessInjectionTest\x64\Release\ProcessInjectionTest.exe
