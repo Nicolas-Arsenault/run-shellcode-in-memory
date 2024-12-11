@@ -10,10 +10,11 @@
 - More to come.. need to bypass runtime...
 
 ### To do
-- Add payload encryption and decryption
+- Add Sanbox detection (behavioral evasion)
+- Add payload encryption and decryption (static bypass)
+- Bypass execution (amsi + api unhooking)
 - Get shellcode from exe file and saving it in the var
 - UI
-- Bypass execution AV
 
 ### Warning
 This does not bypass AV as of now, we did not implement anything for it. If you want to contribute and add it, feel  free to do so.
